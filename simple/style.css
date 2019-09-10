@@ -45,7 +45,7 @@ a{
 	width: 70px;
 	height: 70px;
 	line-height: 70px;
-	color: #fff;
+	color: #333333;
 	background: #ffd886 url(images/like.svg) no-repeat center 10px;
 	background-size: 20px;
 	border-radius: 35px;
@@ -95,10 +95,6 @@ a{
 #donateBox a {
 	display: block;
 }
-#donateBox #PayPal {
-	background-image: url(images/paypal.svg);
-}
-
 #donateBox #AliPay {
 	background-image: url(images/alipay.svg);
 }

@@ -92,9 +92,7 @@ a{
 #donateBox>li:first-child {
 	border-width: 0;
 }
-#donateBox a {
-	display: block;
-}
+
 #donateBox #AliPay {
 	background-image: url(images/alipay.svg);
 }

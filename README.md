@@ -1,8 +1,8 @@
 # Donate-Page
 
-按钮，可使用iframe直接嵌入
+@_@
 
-<!--**bitcoin按钮样式GitHub地址：**[donate-page](https://github.com/Kaiyuan/donate-page)
+
 
 
 ### License
